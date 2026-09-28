@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Bilal%20Junaid%20Jiwani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=62&descSize=18" alt="Bilal Junaid Jiwani"/>
 
 <p align="center">
-  <a href="https://github.com/Bilal-Junaid-Jiwani"><img src="https://komarev.com/ghpvc/?username=Bilal-Junaid-Jiwani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Bilal-Junaid-Jiwani"><img src="https://img.shields.io/badge/GitHub-Bilal--Junaid--Jiwani-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://pypi.org/project/okfsmith/"><img src="https://img.shields.io/badge/PyPI-okfsmith-0e75b6?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
 </p>
@@ -42,8 +38,9 @@ I'm a developer working at the intersection of **AI engineering** and **open sou
 ### Featured projects
 
 <p>
-  <a href="https://github.com/Bilal-Junaid-Jiwani/okfsmith"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Junaid-Jiwani&repo=okfsmith&theme=default&hide_border=false&border_radius=8" alt="okfsmith"/></a>
-  <a href="https://github.com/Bilal-Junaid-Jiwani/Slingshot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Junaid-Jiwani&repo=Slingshot&theme=default&hide_border=false&border_radius=8" alt="Slingshot"/></a>
+  <a href="https://github.com/Bilal-Junaid-Jiwani/okfsmith"><img src="https://img.shields.io/github/stars/Bilal-Junaid-Jiwani/okfsmith?style=for-the-badge&logo=github&color=0e75b6" alt="okfsmith stars"/></a>
+  <a href="https://pypi.org/project/okfsmith/"><img src="https://img.shields.io/pypi/v/okfsmith?style=for-the-badge&logo=pypi&color=0e75b6" alt="okfsmith pypi"/></a>
+  <a href="https://github.com/Bilal-Junaid-Jiwani/Slingshot"><img src="https://img.shields.io/github/stars/Bilal-Junaid-Jiwani/Slingshot?style=for-the-badge&logo=github&color=0e75b6" alt="slingshot stars"/></a>
 </p>
 
 | Project | What it is |
@@ -58,14 +55,5 @@ I'm a developer working at the intersection of **AI engineering** and **open sou
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Junaid-Jiwani&show_icons=true&theme=default&hide_border=false&border_radius=8&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=Bilal-Junaid-Jiwani&theme=default&hide_border=false&border_radius=8" height="165" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Junaid-Jiwani&layout=compact&theme=default&hide_border=false&border_radius=8" height="150" alt="top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Junaid-Jiwani&theme=github-compact&hide_border=false&radius=8" width="100%" alt="activity graph"/>
+  <img src="https://streak-stats.demolab.com?user=Bilal-Junaid-Jiwani&theme=default&hide_border=false&border_radius=8" height="180" alt="streak stats"/>
 </div>
